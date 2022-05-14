@@ -8,4 +8,9 @@
 
 https://drive.google.com/file/d/1IHm1eHIFtbJkRsDLMhfDKQo8A0c9xRV2/view?usp=sharing
 
--Uygulamanın çalışabilmesi için android işletim sıstemine sahip bir telefona sahip olmanız gerekmektedir.
+-Uygulamanın çalışabilmesi için android işletim sistemine sahip bir telefona sahip olmanız gerekmektedir.
+
+*14.05.2022 22.34
+-Bug fixes and new features
+
+https://drive.google.com/file/d/1ORfKPQSiiy3voKELL--iLmo1wXeKUzhj/view?usp=sharing
