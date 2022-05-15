@@ -14,3 +14,8 @@ https://drive.google.com/file/d/1IHm1eHIFtbJkRsDLMhfDKQo8A0c9xRV2/view?usp=shari
 -Bug fixes and new features
 
 https://drive.google.com/file/d/1ORfKPQSiiy3voKELL--iLmo1wXeKUzhj/view?usp=sharing
+
+*15.05.2022 7.51
+-Uygulama revizyonu
+
+https://drive.google.com/file/d/1dd8c7Pr5fiB__B0Qf17-AQ_cFVhIX8qo/view?usp=sharing
