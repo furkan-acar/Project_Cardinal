@@ -1,6 +1,6 @@
 # Project_Cardinal
 
--Amacım ürün satışı yapan sitelerin, şeffaflığının ve güvenilirliğinin tasdiklenmesi için yorum, eleştiri ve iade gibi verilerinin blok zinciri ağı kullanılarak depolanmasıdır.
+-Amacım ürün satışı yapan sitelerin, şeffaflığının ve güvenilirliğinin tasdiklenmesi için yorum ve iade gibi verilerinin blok zinciri ağı kullanılarak depolanmasıdır.
 
 
 *14.05.2022 14.26
